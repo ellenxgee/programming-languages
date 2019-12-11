@@ -1,0 +1,1 @@
+("7.2" racket ("38c382c4e1e76776cf27398f54c28bb23c3d6a41" . "e20cc8f7c33ca8427e3899f9ac6c17c0fbd267bb") #"/Users/ellengee/Desktop/College/COMP_3351/dbn-assignment/dbn-errors.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"parser-tools" #"lex-sre.rkt") (collects #"parser-tools" #"lex.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
